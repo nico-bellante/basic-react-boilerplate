@@ -1,8 +1,8 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from 'react'
+import ReactDOM from 'react-dom'
 
-const title = 'hello world';
+const title = 'hello world'
 
-ReactDOM.render(<div>{title}</div>, document.getElementById('app'));
+ReactDOM.render(<div>{title}</div>, document.getElementById('app'))
 
-module.hot.accept();
+module.hot.accept()
